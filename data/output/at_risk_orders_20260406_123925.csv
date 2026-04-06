@@ -1,0 +1,1 @@
+po_id,supplier_id,order_date,promised_delivery_date,actual_delivery_date,status,product_category,quantity,unit_cost,total_po_value,buyer_region,payment_terms_days,supplier_name,tier,supplier_region,promised_lead_time,actual_lead_time,days_delayed,is_delayed,is_on_time,delay_cost,order_month
